@@ -5,4 +5,5 @@
 > pwd >> /tmp/report                                                            
 > du -sh . >> /tmp/report                                                       
 > cd ~                                                                          
-> }                           
+> }       
+cat /tmp/report
